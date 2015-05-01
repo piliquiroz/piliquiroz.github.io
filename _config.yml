@@ -1,0 +1,12 @@
+name: "The Wonderful Actress"
+description: "I am the bees knees of acting"
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+
+permalink: pretty
+
+highlighter: "none"
