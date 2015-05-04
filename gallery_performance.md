@@ -3,9 +3,7 @@ title: Gallery
 layout: default
 ---
 
-# Gallery
-
-This is where a photo-gallery will appear.
+# Performance
 
 <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
 <div id="blueimp-gallery" class="blueimp-gallery">
