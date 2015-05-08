@@ -5,6 +5,14 @@ layout: default
 
 # Home
 
-Pilar Quiroz is a Colombian performer currently based in Germany.
+<div class="container">
+    <div class="row">
+        <h3>Pilar Quiroz is a Colombian performer currently based in Germany.</h3>
+    </div>
 
-<img style="float: left" border=100 width=600 src="/assets/book/book_001.jpg">
+    <div class="row">
+      <div class="col-md-12">
+        <img style="float: left" border=100 src="/assets/book/book_001.jpg">
+      </div>
+    </div>
+</div>
