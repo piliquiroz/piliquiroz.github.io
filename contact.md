@@ -8,7 +8,7 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <img style="float: left" border=100 width=600 src="/assets/book/book_010.jpg">
+      <img style="float: left" border=100 width=600 src="/assets/pics/pic_025.jpg">
     </div>
   </div>
   <div class="row"></div>

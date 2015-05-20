@@ -7,7 +7,7 @@ layout: default
 <div class="container-fluid">
   <div class="row">
   <div class="col-md-6 col-sm-8 col-xs-12">
-    <center><img style="float" border=100 src="/assets/front.jpg"></center>
+    <center><img style="float" border=100 src="/assets/pics/pic_024.jpg"></center>
   </div>
 
 
