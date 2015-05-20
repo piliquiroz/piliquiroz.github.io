@@ -70,14 +70,14 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_002.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_002.png" alt="Book"
-             width=310px height=205px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb book">
       <a href="/assets/pics/pic_003.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_003.png" alt="Book"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
@@ -91,7 +91,7 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_004.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_004.png" alt="Book"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
@@ -100,21 +100,21 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_006.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_006.png" alt="Book"
-             width=310px height=205px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb book">
       <a href="/assets/pics/pic_011.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_011.png" alt="Book"
-             width=310px height=940px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb book">
       <a href="/assets/pics/pic_009.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_009.png" alt="Book"
-             width=625px height=415px>
+             width=625px height=auto>
       </a>
     </div>
 
@@ -128,20 +128,20 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_014.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_014.png" alt="Book"
-             width=310px height=465px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb book">
       <a href="/assets/pics/pic_007.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_007.png" alt="Book"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
     <div class="thumb book">
       <a href="/assets/pics/pic_010.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_010.png" alt="Book"
-             width=310px height=625px>
+             width=310px height=auto>
       </a>
     </div>
 
@@ -149,7 +149,7 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_008.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_008.png" alt="Book"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
@@ -157,7 +157,7 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_012.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_012.png" alt="Book"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
@@ -165,7 +165,7 @@ layout: default
     <div class="thumb book">
       <a href="/assets/pics/pic_015.jpg" title="Book" data-gallery>
         <img src="/assets/pics/thumbs/pic_015.png" alt="Book"
-             width=310px height=465px>
+             width=310px height=auto>
       </a>
     </div>
 
@@ -173,56 +173,56 @@ layout: default
     <div class="thumb performance">
       <a href="/assets/pics/pic_016.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_016.png" alt="Performance"
-             width=310px height=465px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_017.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_017.png" alt="Performance"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_018.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_018.png" alt="Performance"
-             width=625px height=415px>
+             width=625px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_019.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_019.png" alt="Performance"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_020.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_020.png" alt="Performance"
-             width=310px height=205px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_021.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_021.png" alt="Performance"
-             width=310px height=625px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_022.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_022.png" alt="Performance"
-             width=310px height=625px>
+             width=310px height=auto>
       </a>
     </div>
 
     <div class="thumb performance">
       <a href="/assets/pics/pic_023.jpg" title="Performance" data-gallery>
         <img src="/assets/pics/thumbs/pic_023.png" alt="Performance"
-             width=310px height=310px>
+             width=310px height=auto>
       </a>
     </div>
 
