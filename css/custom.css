@@ -1,3 +1,14 @@
+img {
+    max-width: 100%;
+}
+
+.pagepic {
+    width=100px,
+    style="float"
+}
+
+h1,h2,h3,p {font-family: 'Nobile', sans-serif;}
+
 masonry: {
   columnWidth: 200,
 }
@@ -9,7 +20,8 @@ masonry: {
 }
 
 body {
-  font-family: sans-serif;
+    font-family: sans-serif;
+    padding-top: 60px;
 }
 
 /* ---- button ---- */
@@ -22,7 +34,7 @@ body {
   border-radius: 7px;
   background-image: linear-gradient( to bottom, hsla(0, 0%, 0%, 0), hsla(0, 0%, 0%, 0.2) );
   color: #222;
-  font-family: sans-serif;
+  font-family: 'Nobile', sans-serif;
   font-size: 16px;
   text-shadow: 0 1px white;
   cursor: pointer;
