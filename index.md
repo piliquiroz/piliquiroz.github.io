@@ -12,7 +12,7 @@ layout: default
 
     <div class="row">
       <div class="col-md-12">
-        <img style="float: left" border=100 src="/assets/book/book_001.jpg">
+        <img style="float: left" border=100 src="/assets/pics/pic_001.jpg">
       </div>
     </div>
 </div>
