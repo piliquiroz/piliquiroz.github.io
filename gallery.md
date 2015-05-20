@@ -6,6 +6,7 @@ layout: default
 
 <!-- The filtering javascript -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.js" type="text/javascript"></script>
+<script src="/js/imagesloaded.pkgd.js" type="text/javascript"></script>
 
 
 
@@ -232,13 +233,16 @@ layout: default
 
 
 <script type="text/javascript">
-  var $container = $('#links');
-  // init
-  $container.isotope({
-  // options
-  itemSelector: '.thumb',
-  layoutMode: 'masonry',
+  var $container = $('#links').imagesLoaded( function() {;
+      // init
+      $container.isotope({
+      // options
+          itemSelector: '.thumb',
+          layoutMode: 'masonry',
+      });
   });
+
+
 
   // filter items on button click
   $('#filters').on( 'click', 'button', function() {
