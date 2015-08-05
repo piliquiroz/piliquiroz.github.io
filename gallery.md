@@ -9,7 +9,6 @@ layout: default
 <script src="/js/imagesloaded.pkgd.js" type="text/javascript"></script>
 
 
-
 <!-- The Lightbox gallery -->
 <div id="blueimp-gallery" class="blueimp-gallery">
   <div class="slides"></div>
@@ -46,14 +45,16 @@ layout: default
 
 <!-- The filtering buttons -->
 <div id="filters" class="button-group">
-  <button class="button is-checked" data-filter="*">show all</button>
-  <button class="button" data-filter=".book">book</button>
-  <button class="button" data-filter=".performance">performance</button>
+    <button class="button is-checked" data-filter="*">show all</button>
+    <button class="button" data-filter=".book">book</button>
+    <button class="button" data-filter=".performance">performance</button>
 </div>
 
 
+
+
 <!-- The list of images -->
-<div class="container">
+<div class="container-fluid">
   <div id="links">
 
     <div class="thumb book">
@@ -95,8 +96,6 @@ layout: default
              width=310px height=auto>
       </a>
     </div>
-
-
 
     <div class="thumb book">
       <a href="/assets/pics/pic_006.jpg" title="Book" data-gallery>
