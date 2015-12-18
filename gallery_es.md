@@ -1,6 +1,6 @@
 ---
 title: Galería
-layout: default
+layout: default_es
 ---
 
 

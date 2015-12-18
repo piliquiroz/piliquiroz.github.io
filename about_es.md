@@ -1,6 +1,6 @@
 ---
 title: Perfil
-layout: default
+layout: default_es
 ---
 
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: Contacto
-layout: default
+layout: default_es
 ---
 
 <div class="row">
