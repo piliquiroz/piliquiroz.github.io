@@ -33,7 +33,7 @@ layout: default_es
             <i class="glyphicon glyphicon-chevron-left"></i>
             Previous
           </button>
-          <button type="button" class="btn btn-primary next">
+          <button type="button" class="btn btn-primary next"
             Next
             <i class="glyphicon glyphicon-chevron-right"></i>
           </button>
@@ -45,7 +45,7 @@ layout: default_es
 
 <!-- The filtering buttons -->
 <div id="filters" class="button-group">
-    <button class="button is-checked" data-filter="*">show all</button>
+<button class="button is-checked" data-filter="*">todas</button>
     <button class="button" data-filter=".book">book</button>
     <button class="button" data-filter=".performance">performance</button>
 </div>

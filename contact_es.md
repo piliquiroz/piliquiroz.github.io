@@ -14,7 +14,7 @@ layout: default_es
 
     <form action="//formspree.io/pili.a.quiroz@gmail.com" method="POST">
     <div class="form-group">
-        <label for="InputName">Name</label>
+        <label for="InputName">Nombre</label>
         <div class="input-group">
           <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
           <span class="input-group-addon">
@@ -28,7 +28,7 @@ layout: default_es
             <i class="glyphicon glyphicon-ok form-control-feedback"></i></span></div></div>
 
       <div class="form-group">
-        <label for="InputMessage">Message</label>
+        <label for="InputMessage">Mensaje</label>
         <div class="input-group">
           <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
           <span class="input-group-addon">
