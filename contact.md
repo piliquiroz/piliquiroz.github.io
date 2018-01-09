@@ -34,5 +34,3 @@ layout: default
     </div>
   </form>
 </div>
-</div>
-</div>
