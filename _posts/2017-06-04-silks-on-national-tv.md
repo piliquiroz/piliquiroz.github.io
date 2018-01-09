@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-06-04
+date: 2017-06-04 00:00:00
 title: I'm on national TV!
 categories: silks performance media
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haunted Stage
-date: 2016-03-19
+date: 2016-03-19 00:00:00
 categories: directing fun tech
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-04-25
+date: 2016-04-25 00:00:00
 title: First time directing after the stroke. What has changed?
 categories: stroke directing
 ---

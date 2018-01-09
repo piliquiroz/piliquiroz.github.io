@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-12-05
+date: 2016-12-05 00:00:00
 title: God of Carnage
 categories: directing theatre
 ---

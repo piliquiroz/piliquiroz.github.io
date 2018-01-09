@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-12-08
+date: 2016-12-08 00:00:00
 title: Vomit!
 tags: tech fun
 ---

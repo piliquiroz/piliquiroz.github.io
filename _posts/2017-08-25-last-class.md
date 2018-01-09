@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-08-25
+date: 2017-08-25 00:00:00
 title: Last class with Himmelstänzerin Kompany
 categories: silks teaching
 ---

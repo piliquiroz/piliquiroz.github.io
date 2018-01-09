@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-05-13
+date: 2017-05-13 00:00:00
 title: Benefit for the Nehrener church and Jacob Nacken
 categories: silks performance
 ---

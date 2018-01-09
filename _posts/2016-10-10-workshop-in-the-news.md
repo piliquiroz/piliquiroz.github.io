@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-10-10
+date: 2016-10-10 00:00:00
 title: Our workshop made the news. Hihi.
 categories: media link silks
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-07-31
+date: 2016-07-31 00:00:00
 title: Shooting with Hugo
 categories: fun filming friends
 ---

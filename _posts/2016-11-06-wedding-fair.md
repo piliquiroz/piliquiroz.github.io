@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-11-06
+date: 2016-11-06 00:00:00
 title: Performing at a wedding fair at Blumeninsel Mainau
 tag: silks performance
 ---

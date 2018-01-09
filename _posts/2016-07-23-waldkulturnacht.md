@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-07-23
+date: 2016-07-23 00:00:00
 title: Waldkulturnacht 2016
 categories: silks performance
 ---

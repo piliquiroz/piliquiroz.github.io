@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-04-23
+date: 2016-04-23 00:00:00
 title: Fooling around before the premier of Blithe Spirit
 tag: blithe fun directing
 ---

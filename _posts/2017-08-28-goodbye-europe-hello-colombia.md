@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-08-28
+date: 2017-08-28 00:00:00
 title: Goodbye Europe, Hello Colombia!
 categories: moving life colombia
 ---

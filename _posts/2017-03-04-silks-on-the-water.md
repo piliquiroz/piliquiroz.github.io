@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-03-04
+date: 2016-03-04 00:00:00
 title: SchabenQuellen: Silks over water!
 categories: silks performance
 ---

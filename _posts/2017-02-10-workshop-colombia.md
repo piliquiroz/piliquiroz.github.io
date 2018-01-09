@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-02-10
+date: 2017-02-10 00:00:00
 title: Taller Juegos Movimiento y Espacio
 categories: workshop teaching colombia
 ---

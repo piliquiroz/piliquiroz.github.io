@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-06-16
+date: 2016-06-16 00:00:00
 title: 'The Creating Body'
 categories: workshop
 ---

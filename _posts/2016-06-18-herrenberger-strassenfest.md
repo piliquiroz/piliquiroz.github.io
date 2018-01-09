@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-06-18
+date: 2016-06-18 00:00:00
 title: The Herrenberger Strassenfest
 categories: silks
 ---

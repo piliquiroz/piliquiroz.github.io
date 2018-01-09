@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blithe Spirit
-date: 2016-02-2016
+date: 2016-02-2016 00:00:00
 categories: directing poster
 ---
 
