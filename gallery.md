@@ -121,7 +121,6 @@ layout: default
     <div class="thumb silks"><a href="https://image.ibb.co/k0hrZ6/IMG_20170604_WA0004.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/cPS3gm/IMG_20170604_WA0004.jpg" alt="IMG_20170604_WA0004" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/dAuunR/IMG_20170604_WA0010.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/fM4G1m/IMG_20170604_WA0010.jpg" alt="IMG_20170604_WA0010" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/m7k0SR/pilar_quiroz_performance.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/ciUigm/pilar_quiroz_performance.jpg" alt="pilar_quiroz_performance" border="0"></a></div>
-    <div class="thumb silks"><a href="https://image.ibb.co/jQuunR/The_creating_body.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/fAG77R/The_creating_body.jpg" alt="The_creating_body" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/fdsfSR/performance_pilar_silks.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/dDz5u6/performance_pilar_silks.jpg" alt="performance_pilar_silks" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/nvNfSR/pilar_performance.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/cPNQu6/pilar_performance.jpg" alt="pilar_performance" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/g7Hx7R/hochzeitsmesse_mainau.gif" title="Silks" data-gallery><img src="https://thumb.ibb.co/bUVH7R/hochzeitsmesse_mainau.gif" alt="hochzeitsmesse_mainau" border="0"></a></div>
@@ -132,10 +131,12 @@ layout: default
     <div class="thumb silks"><a href="https://image.ibb.co/b6C8E6/DSC_7323_00006.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/hX0H7R/DSC_7323_00006.jpg" alt="DSC_7323_00006" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/hvy4nR/DSC_0015.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/j68R1m/DSC_0015.jpg" alt="DSC_0015" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/fR9MZ6/DSC_0002.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/i8Cau6/DSC_0002.jpg" alt="DSC_0002" border="0"></a></div>
-        <div class="thumb silks"><a href="https://image.ibb.co/ipvW1m/DSC0214.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/k8pr1m/DSC0214.jpg" alt="DSC0214" border="0"></a></div>
-    <div class="thumb silks"><a href="https://image.ibb.co/npR4Mm/DSC0357.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/jOqmZ6/DSC0357.jpg" alt="DSC0357" border="0"></a></div>
-    <div class="thumb silks"><a href="https://image.ibb.co/k5Zfu6/DSC0222.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/hGoUnR/DSC0222.jpg" alt="DSC0222" border="0"></a></div>
-    <div class="thumb silks"><a href="https://image.ibb.co/j7v9nR/DSC0285.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/eqZfu6/DSC0285.jpg" alt="DSC0285" border="0"></a></div>
+    <!-- Workshops -->
+    <div class="thumb workshop"><a href="https://image.ibb.co/ipvW1m/DSC0214.jpg" title="Workshop" data-gallery><img src="https://thumb.ibb.co/k8pr1m/DSC0214.jpg" alt="DSC0214" border="0"></a></div>
+    <div class="thumb workshop"><a href="https://image.ibb.co/npR4Mm/DSC0357.jpg" title="Workshop" data-gallery><img src="https://thumb.ibb.co/jOqmZ6/DSC0357.jpg" alt="DSC0357" border="0"></a></div>
+    <div class="thumb workshop"><a href="https://image.ibb.co/k5Zfu6/DSC0222.jpg" title="Workshop" data-gallery><img src="https://thumb.ibb.co/hGoUnR/DSC0222.jpg" alt="DSC0222" border="0"></a></div>
+    <div class="thumb workshop"><a href="https://image.ibb.co/j7v9nR/DSC0285.jpg" title="Workshop" data-gallery><img src="https://thumb.ibb.co/eqZfu6/DSC0285.jpg" alt="DSC0285" border="0"></a></div>
+    <div class="thumb workshop"><a href="https://image.ibb.co/jQuunR/The_creating_body.jpg" title="Workshop" data-gallery><img src="https://thumb.ibb.co/fAG77R/The_creating_body.jpg" alt="The_creating_body" border="0"></a></div>
 
     <!-- <div class="thumb book"> -->
     <!--   <a href="/assets/pics/pic_000.jpg" title="Book" data-gallery> -->
