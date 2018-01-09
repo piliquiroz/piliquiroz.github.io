@@ -50,7 +50,7 @@ layout: default
     <button class="button" data-filter=".acting">acting</button>
     <button class="button" data-filter=".directing">directing</button>
     <button class="button" data-filter=".silks">silks</button>
-    <button class="button" data-filter=".workshops">workshops</button>
+    <button class="button" data-filter=".workshop">workshops</button>
 </div>
 
 <!-- The list of images -->
