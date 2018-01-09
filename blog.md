@@ -10,5 +10,3 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-
-<p> {% site.posts %} </p>
