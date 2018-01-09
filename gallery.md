@@ -49,8 +49,8 @@ layout: default
     <button class="button" data-filter=".book">book</button>
     <button class="button" data-filter=".acting">acting</button>
     <button class="button" data-filter=".directing">directing</button>
-    <button class="silks" data-filter=".silks">silks</button>
-    <button class="workshops" data-filter=".workshops">workshops</button>
+    <button class="button" data-filter=".silks">silks</button>
+    <button class="button" data-filter=".workshops">workshops</button>
 </div>
 
 <!-- The list of images -->
@@ -85,7 +85,7 @@ layout: default
     <div class="thumb acting"><a href="https://image.ibb.co/dcfvu6/pic_021.jpg" title="Acting" data-gallery><img src="https://thumb.ibb.co/n0wDgm/pic_021.jpg" alt="pic_021" border="0"></a></div>
     <!-- Directing -->
     <div class="thumb directing"><a href="https://image.ibb.co/iuLdE6/vomit_compressed.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/kDDyE6/vomit_compressed.jpg" alt="vomit_compressed" border="0"></a></div>
-    <div c<div class="thumb directing"><a href="https://image.ibb.co/jBcx7R/Carnage_3.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/gMsm1m/Carnage_3.jpg" alt="Carnage_3" border="0"></a></div>
+    <div class="thumb directing"><a href="https://image.ibb.co/jBcx7R/Carnage_3.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/gMsm1m/Carnage_3.jpg" alt="Carnage_3" border="0"></a></div>
     <div class="thumb directing"><a href="https://image.ibb.co/huytgm/IMG_5921.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/jTH8E6/IMG_5921.jpg" alt="IMG_5921" border="0"></a></div>
     <div class="thumb directing"><a href="https://image.ibb.co/kHpASR/IMG_5829.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/gnkTE6/IMG_5829.jpg" alt="IMG_5829" border="0"></a></div>
     <div class="thumb directing"><a href="https://image.ibb.co/nExx7R/Carnage_10.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/ijtFu6/Carnage_10.jpg" alt="Carnage_10" border="0"></a></div>
@@ -113,7 +113,7 @@ layout: default
     <div class="thumb directing"><a href="https://image.ibb.co/f2Vs7R/Carnage_11.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/jXYZMm/Carnage_11.jpg" alt="Carnage_11" border="0"></a></div>
     <div class="thumb directing"><a href="https://image.ibb.co/k78enR/Carnage_9.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/fUMznR/Carnage_9.jpg" alt="Carnage_9" border="0"></a></div>
     <div class="thumb directing"><a href="https://image.ibb.co/k5CuMm/Carnage_4.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/fSQEMm/Carnage_4.jpg" alt="Carnage_4" border="0"></a></div>
-lass="thumb directing"><a href="https://image.ibb.co/eG11Z6/Blithe_poster.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/diQTE6/Blithe_poster.jpg" alt="Blithe_poster" border="0"></a></div>
+    <div class="thumb directing"><a href="https://image.ibb.co/eG11Z6/Blithe_poster.jpg" title="Directing" data-gallery><img src="https://thumb.ibb.co/diQTE6/Blithe_poster.jpg" alt="Blithe_poster" border="0"></a></div>
     <!-- Silks -->
     <div class="thumb silks"><a href="https://image.ibb.co/iaPS7R/IMG_20170607_184336_341.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/e74S7R/IMG_20170607_184336_341.jpg" alt="IMG_20170607_184336_341" border="0"></a></div>
     <div class="thumb silks"><a href="https://image.ibb.co/dTiLSR/p4.jpg" title="Silks" data-gallery><img src="https://thumb.ibb.co/geuigm/p4.jpg" alt="p4" border="0"></a></div>
