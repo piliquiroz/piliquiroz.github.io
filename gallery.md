@@ -58,7 +58,7 @@ layout: default
 <div class="container-fluid">
   <div id="links">
     {% for img in site.data.images %}
-    <div class="thumb {{ img.category }}">
+    <div class="thumb {{ img[1].category }}">
       <a href="{{ img[1].path }}" title="{{ img[1].category }}" data-gallery>
         <img src="{{ img[1].thumb }}" alt="{{ img[0] }}" border="0">
       </a>

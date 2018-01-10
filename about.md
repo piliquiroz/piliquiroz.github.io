@@ -4,9 +4,9 @@ layout: default
 ---
 
 <div class="row">
-    <div class="col-md-12">
-        <img class="img-title" src="https://image.ibb.co/deJn7R/pic_024.jpg">
-    </div>
+  <div class="col-md-12">
+    <img class="img-title" src={{ site.data.images.pic_024.path }}>
+  </div>
 </div>
 
 <div>

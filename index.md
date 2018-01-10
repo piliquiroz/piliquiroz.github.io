@@ -5,7 +5,6 @@ layout: default
 
 <div class="row">
     <div class="col-md-12">
-    {% assign img = site.data.images.pic_007 %}
-    <img class="img-title" src={{ img.path }}>
+    <img class="img-title" src={{ site.data.images.pic_007.path }}>
     </div>
 </div>
