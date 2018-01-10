@@ -3,10 +3,15 @@ title: Blog
 layout: default
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title}}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+  <div class="entry">
+  	<div class="entrytitle">
+  		<h2>{{ post.title }}</h2>
+  		<h3>{{ post.date | date_to_string }}</h3>
+  	</div>
+   {{ post.excerpt }}
+   <a href="{{ post.url }}">Read more</a>
+
+  </div>
+{% endfor %}
