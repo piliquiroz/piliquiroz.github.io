@@ -54,12 +54,13 @@ layout: default
 </div>
 
 <!-- The list of images -->
+{% for img in site.data.images %}
+<p> {{ img.path }} </p>
+{% endfor %}
+
 <div class="container-fluid">
   <div id="links">
-    {% for img in site.data.images %}
-    <p> {{ img.path }} </p>
-    {% endfor %}
-    <!-- Amy's fotoshoot -->
+   <!-- Amy's fotoshoot -->
     <!-- <div class="thumb book"><a href="https://image.ibb.co/kgpS7R/pic_015.jpg" title="Book" data-gallery><img src="https://thumb.ibb.co/hr4G1m/pic_015.jpg" alt="pic_015" border="0"></a></div> -->
     <!-- <div class="thumb book"><a href="https://image.ibb.co/nMK5u6/pic_012.jpg" title="Book" data-gallery><img src="https://thumb.ibb.co/iN7EnR/pic_012.jpg" alt="pic_012" border="0"></a></div> -->
     <!--     <\!-- <div class="thumb book"> -\-> -->
