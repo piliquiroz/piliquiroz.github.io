@@ -3,21 +3,23 @@ layout: post
 date: 2016-04-23 00:00:00
 title: Fooling around before the premier of Blithe Spirit
 tag: blithe fun directing
+title-image: IMG_5971
+extra-images:
+  - IMG_5984
+  - IMG_5921
+  - IMG_5829
+  - IMG_5834
+  - IMG_5936
+  - IMG_5832
+  - IMG_5850
+  - IMG_5964
+  - IMG_5958
+  - IMG_6016
+  - IMG_5971
+  - IMG_5953
+  - IMG_5985
+  - IMG_5835
+
 ---
 
-Just fooling around before the premier.
-
-![]({{ site.data.images.IMG_5984.path }})
-![]({{ site.data.images.IMG_5921.path }})
-![]({{ site.data.images.IMG_5829.path }})
-![]({{ site.data.images.IMG_5834.path }})
-![]({{ site.data.images.IMG_5936.path }})
-![]({{ site.data.images.IMG_5832.path }})
-![]({{ site.data.images.IMG_5850.path }})
-![]({{ site.data.images.IMG_5964.path }})
-![]({{ site.data.images.IMG_5958.path }})
-![]({{ site.data.images.IMG_6016.path }})
-![]({{ site.data.images.IMG_5971.path }})
-![]({{ site.data.images.IMG_5953.path }})
-![]({{ site.data.images.IMG_5985.path }})
-![]({{ site.data.images.IMG_5835.path }})
+Just pictures of us fooling around before the premier.

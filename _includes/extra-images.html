@@ -1,0 +1,19 @@
+{% if page.extra-images != nil %}
+
+  {% include lightbox.html %}
+
+  <div class="container-fluid">
+    <div id="links">
+      {% for name in page.extra-images %}
+        {% assign img = site.data.images[name] %}
+        <div class="thumb {{ img.category }}">
+          <a href="{{ img.path }}" title="{{ img.category }}" data-gallery>
+            <img src="{{ img.thumb }}" alt="{{ name }}" border="0">
+          </a>
+        </div>
+      {% endfor %}
+      {% assign img = nil %}
+    </div>
+  </div>
+
+{% endif %}

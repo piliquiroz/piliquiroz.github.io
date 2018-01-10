@@ -1,13 +1,8 @@
 ---
 title: Contact
 layout: default
+title-image: pic_025
 ---
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="img-title" src="{{ site.data.images.pic_025.path }}">
-  </div>
-</div>
 
 <div class="row">
   <div class="col-md-12">

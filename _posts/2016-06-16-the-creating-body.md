@@ -3,6 +3,7 @@ layout: post
 date: 2016-06-16 00:00:00
 title: 'The Creating Body'
 categories: workshop
+title-image: The_creating_body
 ---
 
 It has been more than a year since I was on a stage. Moving to a new country has
@@ -18,5 +19,3 @@ pushed and it felt so good to be on my feet again. Since this was a workshop
 about how to make your own show, I was forced to use my creativity. We also did
 some acrobatics and that meant I had to get over my fear. I feel like I've
 gotten my body back and I'm ready to perform again. I'm quitting my day job.
-
-![The Creating Body]({{ site.data.images.The_creating_body.path }})

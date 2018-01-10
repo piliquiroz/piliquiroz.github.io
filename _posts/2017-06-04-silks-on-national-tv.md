@@ -3,6 +3,12 @@ layout: post
 date: 2017-06-04 00:00:00
 title: I'm on national TV!
 categories: silks performance media
+extra-images:
+  - IMG_20170605_082007_746
+  - IMG_20170602_183755_857
+  - IMG_20170604_WA0010
+  - IMG_20170604_WA0004
+  - p4
 ---
 
 This has been with out a doubt the coolest job ever and I really wasn't
@@ -29,9 +35,3 @@ the organizers to the priest. I am very happy I got to be part of this.
 [Click here to see bits of the rehearsal](https://youtu.be/Ft0sJFd4bc4)
 
 [Click here for the entire service](http://www.ardmediathek.de/tv/Kirchliche-Sendungen/Evangelischer-Gottesdienst-zum-Pfingstso/Das-Erste/Video?bcastId=4112710&documentId=43312750)
-
-![]({{ site.data.images.p4.path }})
-![]({{ site.data.images.IMG_20170605_082007_746.path }})
-![]({{ site.data.images.IMG_20170602_183755_857.path }})
-![]({{ site.data.images.IMG_20170604_WA0010.path }})
-![]({{ site.data.images.IMG_20170604_WA0004.path }})

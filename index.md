@@ -1,10 +1,5 @@
 ---
 title: Home
 layout: default
+title-image: pic_007
 ---
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="img-title" src="{{ site.data.images.pic_007.path }}">
-  </div>
-</div>

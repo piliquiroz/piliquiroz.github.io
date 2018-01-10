@@ -1,13 +1,8 @@
 ---
 title: About
 layout: default
+title-image: pic_024
 ---
-
-<div class="row">
-  <div class="col-md-12">
-    <img class="img-title" src="{{ site.data.images.pic_024.path }}">
-  </div>
-</div>
 
 <div>
   <p>

@@ -3,6 +3,8 @@ layout: post
 title: Blithe Spirit
 date: 2016-02-20 00:00:00
 categories: directing poster
+extra-images:
+  - Blithe_poster
 ---
 
 
@@ -13,5 +15,3 @@ from scratch. I have chosen a number of eager actors, now I have to put together
 this classic farce all by my self, I am responsible for everything and that is
 very exiting but also very scary.I love the idea of making this play, it is a
 farce full of silly jokes and physical comedy.
-
-![Blithe Spirit Poster]({{ site.data.images.Blithe_poster.path }})

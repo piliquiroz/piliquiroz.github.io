@@ -3,6 +3,11 @@ layout: post
 date: 2017-02-10 00:00:00
 title: Taller Juegos Movimiento y Espacio
 categories: workshop teaching colombia
+title-image: DSC0214
+extra-images:
+  - DSC0357
+  - DSC0222
+  - DSC0285
 ---
 
 My friend Natalia invited me to come and teach a workshop for de theater group
@@ -20,8 +25,3 @@ plan where it was just me an a group of 7 people. They had to sell my workshop,
 and they did but now instead on 7 people there were 14, and it was no longer one
 group. I had to alter my plans completely. It was a learning experience for me
 too.
-
-![]({{ site.data.images.DSC0214.path }})
-![]({{ site.data.images.DSC0357.path }})
-![]({{ site.data.images.DSC0222.path }})
-![]({{ site.data.images.DSC0285.path }})

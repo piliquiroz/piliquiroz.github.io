@@ -3,6 +3,7 @@ layout: post
 date: 2017-03-04 00:00:00
 title: "SchabenQuellen: Silks over water!"
 categories: silks performance
+title-image: DSC_0082
 ---
 
 I am outside the building, climbing on top of a crystal dome to reach the
@@ -16,6 +17,3 @@ hard instrument to follow, but I do my thing I do bits of my routine and in the
 end everyone looks please. I am so tired, I know I am not 100% and the changes
 in temperature aren't helping but I get through it, thank you adrenaline it
 carried me through and it all went well, tomorrow I will sleep all day.
-
-
-![]({{ site.data.images.DSC_0082.path }})
