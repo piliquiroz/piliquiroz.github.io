@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-03-04 00:00:00
-title: SchabenQuellen: Silks over water!
+title: "SchabenQuellen: Silks over water!"
 categories: silks performance
 ---
 

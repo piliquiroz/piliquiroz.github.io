@@ -59,8 +59,8 @@ layout: default
   <div id="links">
     {% for img in site.data.images %}
     <div class="thumb {{ img.category }}">
-      <a href="{{ img.path }}" title="{{ img.category }}" data-gallery>
-        <img src="{{ img.thumb }}" alt="{{ img.name }}" border="0">
+      <a href="{{ img[1].path }}" title="{{ img[1].category }}" data-gallery>
+        <img src="{{ img[1].thumb }}" alt="{{ img[0] }}" border="0">
       </a>
     </div>
     {% endfor %}
