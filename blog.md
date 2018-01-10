@@ -12,6 +12,5 @@ layout: default
   	</div>
    {{ post.excerpt }}
    <a href="{{ post.url }}">Read more</a>
-
   </div>
 {% endfor %}
