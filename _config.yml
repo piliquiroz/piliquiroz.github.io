@@ -3,10 +3,6 @@ description: "Pilar Quiroz is a Colombian actress, trained in Paris, working and
 
 url: "http://localhost:4000"
 
-# paginate: 10
-
-markdown: rdiscount
-
 permalink: pretty
 
 highlighter: "none"
