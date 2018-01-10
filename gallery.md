@@ -54,188 +54,20 @@ layout: default
 </div>
 
 <!-- The list of images -->
-{% for img in site.data.images %}
-<p> {{ img.path }} </p>
-{% endfor %}
 
 <div class="container-fluid">
   <div id="links">
-   <!-- Amy's fotoshoot -->
-    <!-- <div class="thumb book"><a href="https://image.ibb.co/kgpS7R/pic_015.jpg" title="Book" data-gallery><img src="https://thumb.ibb.co/hr4G1m/pic_015.jpg" alt="pic_015" border="0"></a></div> -->
-    <!-- <div class="thumb book"><a href="https://image.ibb.co/nMK5u6/pic_012.jpg" title="Book" data-gallery><img src="https://thumb.ibb.co/iN7EnR/pic_012.jpg" alt="pic_012" border="0"></a></div> -->
-    <!--     <\!-- <div class="thumb book"> -\-> -->
-    <!--   <a href="/assets/pics/pic_000.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_000.png" alt="Book" title="Pilar Andrea Quiroz"> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_001.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_001.png" alt="Book" title="Pilar Andrea Quiroz"> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_002.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_002.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_003.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_003.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_005.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_005.png" alt="Book" title="Pilar Andrea Quiroz"> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_004.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_004.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_006.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_006.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_011.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_011.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_009.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_009.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=625px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_013.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_013.png" alt="Book" title="Pilar Andrea Quiroz"> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_014.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_014.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_007.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_007.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_010.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_010.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_008.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_008.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_012.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_012.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
-    <!-- <div class="thumb book"> -->
-    <!--   <a href="/assets/pics/pic_015.jpg" title="Book" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_015.png" alt="Book title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_016.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_016.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_017.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_017.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_018.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_018.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=625px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_019.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_019.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_020.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_020.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_021.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_021.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_022.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_022.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-    <!-- <div class="thumb performance"> -->
-    <!--   <a href="/assets/pics/pic_023.jpg" title="Performance" data-gallery> -->
-    <!--     <img src="/assets/pics/thumbs/pic_023.png" alt="Performance title="Pilar Andrea Quiroz"" -->
-    <!--          width=310px height=auto> -->
-    <!--   </a> -->
-    <!-- </div> -->
-
-
+    {% for img in site.data.images %}
+    <div class="thumb {{ img.category }}">
+      <a href="{{ img.path }}" title="{{ img.category }}" data-gallery>
+        <img src="{{ img.thumb }}" alt="{{ img.name }}" border="0">
+      </a>
+    </div>
+    {% endfor %}
   </div>
 </div>
 
+<!-- <div class="thumb book"><a href="https://image.ibb.co/kgpS7R/pic_015.jpg" title="Book" data-gallery><img src="https://thumb.ibb.co/hr4G1m/pic_015.jpg" alt="pic_015" border="0"></a></div> -->
 
 <script type="text/javascript">
   var $container = $('#links').imagesLoaded( function() {;
