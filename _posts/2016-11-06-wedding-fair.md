@@ -7,4 +7,4 @@ tag: silks performance
 
 I am performing at a castle on the Island of Manau. I never thought I would be saying that.
 
-![](https://image.ibb.co/g7Hx7R/hochzeitsmesse_mainau.gif){:class="img-responsive"}
+![]({{ site.data.images.hochzeitsmesse_mainau.path }})

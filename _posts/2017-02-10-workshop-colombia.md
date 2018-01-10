@@ -21,7 +21,7 @@ and they did but now instead on 7 people there were 14, and it was no longer one
 group. I had to alter my plans completely. It was a learning experience for me
 too.
 
-![](https://image.ibb.co/ipvW1m/DSC0214.jpg){:class="img-responsive"}
-![](https://image.ibb.co/npR4Mm/DSC0357.jpg){:class="img-responsive"}
-![](https://image.ibb.co/k5Zfu6/DSC0222.jpg){:class="img-responsive"}
-![](https://image.ibb.co/j7v9nR/DSC0285.jpg){:class="img-responsive"}
+![]({{ site.data.images.DSC0214.path }})
+![]({{ site.data.images.DSC0357.path }})
+![]({{ site.data.images.DSC0222.path }})
+![]({{ site.data.images.DSC0285.path }})

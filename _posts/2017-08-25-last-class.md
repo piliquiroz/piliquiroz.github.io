@@ -14,6 +14,6 @@ become a lot more confident as a performer. Thank you Eva.
 
 If you're in Tuebingen, make sure you checkout [Eva's silks school](http://www.himmelstaenzerin.de).
 
-![](https://image.ibb.co/e4WDgm/DSC_7324_00007.jpg){:class="img-responsive"}
-![](https://image.ibb.co/f3AjnR/DSC_7327_00008.jpg){:class="img-responsive"}
-![](https://image.ibb.co/b6C8E6/DSC_7323_00006.jpg){:class="img-responsive"}
+![]({{ site.data.images.DSC_7324_00007.path }})
+![]({{ site.data.images.DSC_7327_00008.path }})
+![]({{ site.data.images.DSC_7323_00006.path }})

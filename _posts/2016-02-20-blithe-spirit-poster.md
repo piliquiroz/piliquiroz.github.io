@@ -14,4 +14,4 @@ this classic farce all by my self, I am responsible for everything and that is
 very exiting but also very scary.I love the idea of making this play, it is a
 farce full of silly jokes and physical comedy.
 
-![Blithe Spirit Poster](https://image.ibb.co/eG11Z6/Blithe_poster.jpg){:class="img-responsive"}
+![Blithe Spirit Poster]({{ site.data.images.Blithe_poster.path }})

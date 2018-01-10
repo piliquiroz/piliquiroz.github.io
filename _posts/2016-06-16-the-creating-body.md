@@ -19,4 +19,4 @@ about how to make your own show, I was forced to use my creativity. We also did
 some acrobatics and that meant I had to get over my fear. I feel like I've
 gotten my body back and I'm ready to perform again. I'm quitting my day job.
 
-![The Creating Body](https://image.ibb.co/jQuunR/The_creating_body.jpg){:class="img-responsive"}
+![The Creating Body]({{ site.data.images.The_creating_body.path }})

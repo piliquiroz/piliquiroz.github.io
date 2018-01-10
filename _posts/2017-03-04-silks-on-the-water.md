@@ -18,4 +18,4 @@ in temperature aren't helping but I get through it, thank you adrenaline it
 carried me through and it all went well, tomorrow I will sleep all day.
 
 
-![](https://image.ibb.co/d7Vvu6/DSC_0082.jpg){:class="img-responsive"}
+![]({{ site.data.images.DSC_0082.path }})

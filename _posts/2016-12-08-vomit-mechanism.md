@@ -9,6 +9,6 @@ One of the funnest things of making God of Carnage was figuring out how to make
 the vomit scene. It turned out great with some stunning results!
 
 
-![](https://image.ibb.co/iuLdE6/vomit_compressed.jpg){:class="img-responsive"}
+![]({{ site.data.images.vomit_compressed.path }})
 
 Note: Photo by Max Raulff

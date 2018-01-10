@@ -7,17 +7,17 @@ tag: blithe fun directing
 
 Just fooling around before the premier.
 
-![](https://image.ibb.co/jg2x7R/IMG_5984.jpg){:class="img-responsive"}
-![](https://image.ibb.co/huytgm/IMG_5921.jpg){:class="img-responsive"}
-![](https://image.ibb.co/kHpASR/IMG_5829.jpg){:class="img-responsive"}
-![](https://image.ibb.co/fgnfSR/IMG_5834.jpg){:class="img-responsive"}
-![](https://image.ibb.co/iqkdE6/IMG_5936.jpg){:class="img-responsive"}
-![](https://image.ibb.co/eASEnR/IMG_5832.jpg){:class="img-responsive"}
-![](https://image.ibb.co/imadE6/IMG_5850.jpg){:class="img-responsive"}
-![](https://image.ibb.co/cELdE6/IMG_5964.jpg){:class="img-responsive"}
-![](https://image.ibb.co/h1C8E6/IMG_5958.jpg){:class="img-responsive"}
-![](https://image.ibb.co/npw1Z6/IMG_6016.jpg){:class="img-responsive"}
-![](https://image.ibb.co/eQsVSR/IMG_5971.jpg){:class="img-responsive"}
-![](https://image.ibb.co/iPXfSR/IMG_5953.jpg){:class="img-responsive"}
-![](https://image.ibb.co/eRUG1m/IMG_5985.jpg){:class="img-responsive"}
-![](https://image.ibb.co/je2au6/IMG_5835.jpg){:class="img-responsive"}
+![]({{ site.data.images.IMG_5984.path }})
+![]({{ site.data.images.IMG_5921.path }})
+![]({{ site.data.images.IMG_5829.path }})
+![]({{ site.data.images.IMG_5834.path }})
+![]({{ site.data.images.IMG_5936.path }})
+![]({{ site.data.images.IMG_5832.path }})
+![]({{ site.data.images.IMG_5850.path }})
+![]({{ site.data.images.IMG_5964.path }})
+![]({{ site.data.images.IMG_5958.path }})
+![]({{ site.data.images.IMG_6016.path }})
+![]({{ site.data.images.IMG_5971.path }})
+![]({{ site.data.images.IMG_5953.path }})
+![]({{ site.data.images.IMG_5985.path }})
+![]({{ site.data.images.IMG_5835.path }})

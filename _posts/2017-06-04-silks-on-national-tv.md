@@ -30,8 +30,8 @@ the organizers to the priest. I am very happy I got to be part of this.
 
 [Click here for the entire service](http://www.ardmediathek.de/tv/Kirchliche-Sendungen/Evangelischer-Gottesdienst-zum-Pfingstso/Das-Erste/Video?bcastId=4112710&documentId=43312750)
 
-![](https://image.ibb.co/dTiLSR/p4.jpg){:class="img-responsive"}
-![](https://image.ibb.co/fsqdE6/IMG_20170605_082007_746.jpg){:class="img-responsive"}
-![](https://image.ibb.co/g6WeMm/IMG_20170602_183755_857.jpg){:class="img-responsive"}
-![](https://image.ibb.co/dAuunR/IMG_20170604_WA0010.jpg){:class="img-responsive"}
-![](https://image.ibb.co/k0hrZ6/IMG_20170604_WA0004.jpg){:class="img-responsive"}
+![]({{ site.data.images.p4.path }})
+![]({{ site.data.images.IMG_20170605_082007_746.path }})
+![]({{ site.data.images.IMG_20170602_183755_857.path }})
+![]({{ site.data.images.IMG_20170604_WA0010.path }})
+![]({{ site.data.images.IMG_20170604_WA0004.path }})

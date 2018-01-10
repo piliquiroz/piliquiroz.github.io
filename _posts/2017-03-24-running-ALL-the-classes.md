@@ -13,4 +13,4 @@ teaching three classes all on my own. This is an amazing opportunity, I am
 already planing most of the lessons and I am really exited for this new
 responsibility.
 
-![](https://image.ibb.co/iaPS7R/IMG_20170607_184336_341.jpg){:class="img-responsive"}
+![]({{ site.data.images.IMG_20170607_184336_341.path }})

@@ -12,5 +12,5 @@ was done by a tree surgeon and I performed a tango as part of the
 literary-musical forest walk "Königin Charlotte und Bebenhausen". Today was
 another first.
 
-![](https://image.ibb.co/hvy4nR/DSC_0015.jpg){:class="img-responsive"}
-![](https://image.ibb.co/fR9MZ6/DSC_0002.jpg){:class="img-responsive"}
+![]({{ site.data.images.DSC_0015.path }})
+![]({{ site.data.images.DSC_0002.path }})
