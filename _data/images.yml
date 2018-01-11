@@ -1,3 +1,134 @@
+
+pic_000:
+ path: https://image.ibb.co/iDxBmm/pic_000.jpg
+ thumb: https://thumb.ibb.co/kXqWmm/pic_000.jpg
+ category: book
+
+pic_001:
+ path: https://image.ibb.co/hep2sR/pic_001.jpg
+ thumb: https://thumb.ibb.co/kVJvCR/pic_001.jpg
+ category: book
+
+pic_002:
+ path: https://image.ibb.co/i4wyXR/pic_002.jpg
+ thumb: https://thumb.ibb.co/h2CGK6/pic_002.jpg
+ category: book
+
+pic_003:
+ path: https://image.ibb.co/n6JdXR/pic_003.jpg
+ thumb: https://thumb.ibb.co/j9pVe6/pic_003.jpg
+ category: book
+
+pic_004:
+ path: https://image.ibb.co/dQmyXR/pic_004.jpg
+ thumb: https://thumb.ibb.co/h1pwK6/pic_004.jpg
+ category: book
+
+pic_005:
+ path: https://image.ibb.co/dCoCsR/pic_005.jpg
+ thumb: https://thumb.ibb.co/eUyqe6/pic_005.jpg
+ category: book
+
+pic_006:
+ path: https://image.ibb.co/gP1bK6/pic_006.jpg
+ thumb: https://thumb.ibb.co/mmMMmm/pic_006.jpg
+ category: book
+
+pic_007:
+ path: https://image.ibb.co/dbcu6m/pic_007.jpg
+ thumb: https://thumb.ibb.co/b31Mmm/pic_007.jpg
+ category: book
+
+pic_008:
+ path: https://image.ibb.co/gi7u6m/pic_008.jpg
+ thumb: https://thumb.ibb.co/cFnu6m/pic_008.jpg
+ category: book
+
+pic_009:
+ path: https://image.ibb.co/ifPwK6/pic_009.jpg
+ thumb: https://thumb.ibb.co/fMWbK6/pic_009.jpg
+ category: book
+
+pic_010:
+ path: https://image.ibb.co/kdXu6m/pic_010.jpg
+ thumb: https://thumb.ibb.co/hLdZ6m/pic_010.jpg
+ category: book
+
+pic_011:
+ path: https://image.ibb.co/jZu7Rm/pic_011.jpg
+ thumb: https://thumb.ibb.co/hj9wK6/pic_011.jpg
+ category: book
+
+pic_012:
+ path: https://image.ibb.co/mcAQCR/pic_012.jpg
+ thumb: https://thumb.ibb.co/d2wbK6/pic_012.jpg
+ category: book
+
+pic_013:
+ path: https://image.ibb.co/ez6Ae6/pic_013.jpg
+ thumb: https://thumb.ibb.co/jctqe6/pic_013.jpg
+ category: book
+
+pic_014:
+ path: https://image.ibb.co/g5sSRm/pic_014.jpg
+ thumb: https://thumb.ibb.co/kSDCsR/pic_014.jpg
+ category: book
+
+pic_015:
+ path: https://image.ibb.co/eKAssR/pic_015.jpg
+ thumb: https://thumb.ibb.co/iZodXR/pic_015.jpg
+ category: book
+
+pic_016:
+ path: https://image.ibb.co/iUxu6m/pic_016.jpg
+ thumb: https://thumb.ibb.co/gvddXR/pic_016.jpg
+ category: acting
+
+pic_017:
+ path: https://image.ibb.co/ijtj6m/pic_017.jpg
+ thumb: https://thumb.ibb.co/n6DTXR/pic_017.jpg
+ category: acting
+
+pic_018:
+ path: https://image.ibb.co/gumFCR/pic_018.jpg
+ thumb: https://thumb.ibb.co/k8P2sR/pic_018.jpg
+ category: acting
+
+pic_019:
+ path: https://image.ibb.co/gULWmm/pic_019.jpg
+ thumb: https://thumb.ibb.co/mbFLe6/pic_019.jpg
+ category: acting
+
+pic_020:
+ path: https://image.ibb.co/bXCGK6/pic_020.jpg
+ thumb: https://thumb.ibb.co/dTxiz6/pic_020.jpg
+ category: acting
+
+pic_021:
+ path: https://image.ibb.co/dgMtz6/pic_021.jpg
+ thumb: https://thumb.ibb.co/dLwhsR/pic_021.jpg
+ category: acting
+
+pic_022:
+ path: https://image.ibb.co/htjkCR/pic_022.jpg
+ thumb: https://thumb.ibb.co/khUwK6/pic_022.jpg
+ category: acting
+
+pic_023:
+ path: https://image.ibb.co/d32oXR/pic_023.jpg
+ thumb: https://thumb.ibb.co/fVd6K6/pic_023.jpg
+ category: acting
+
+pic_024:
+ path: https://image.ibb.co/bYqmK6/pic_024.jpg
+ thumb: https://thumb.ibb.co/m4p2sR/pic_024.jpg
+ category: book
+
+pic_025:
+ path: https://image.ibb.co/d3B46m/pic_025.jpg
+ thumb: https://thumb.ibb.co/frCYz6/pic_025.jpg
+ category: book
+
 Blithe_poster:
  path: https://image.ibb.co/jABke6/Blithe_poster.jpg
  thumb: https://thumb.ibb.co/ncn2Rm/Blithe_poster.jpg
@@ -257,133 +388,3 @@ vomit_compressed:
  path: https://image.ibb.co/hn03z6/vomit_compressed.jpg
  thumb: https://thumb.ibb.co/cHwMmm/vomit_compressed.jpg
  category: directing
-
-pic_000:
- path: https://image.ibb.co/iDxBmm/pic_000.jpg
- thumb: https://thumb.ibb.co/kXqWmm/pic_000.jpg
- category: book
-
-pic_001:
- path: https://image.ibb.co/hep2sR/pic_001.jpg
- thumb: https://thumb.ibb.co/kVJvCR/pic_001.jpg
- category: book
-
-pic_002:
- path: https://image.ibb.co/i4wyXR/pic_002.jpg
- thumb: https://thumb.ibb.co/h2CGK6/pic_002.jpg
- category: book
-
-pic_003:
- path: https://image.ibb.co/n6JdXR/pic_003.jpg
- thumb: https://thumb.ibb.co/j9pVe6/pic_003.jpg
- category: book
-
-pic_004:
- path: https://image.ibb.co/dQmyXR/pic_004.jpg
- thumb: https://thumb.ibb.co/h1pwK6/pic_004.jpg
- category: book
-
-pic_005:
- path: https://image.ibb.co/dCoCsR/pic_005.jpg
- thumb: https://thumb.ibb.co/eUyqe6/pic_005.jpg
- category: book
-
-pic_006:
- path: https://image.ibb.co/gP1bK6/pic_006.jpg
- thumb: https://thumb.ibb.co/mmMMmm/pic_006.jpg
- category: book
-
-pic_007:
- path: https://image.ibb.co/dbcu6m/pic_007.jpg
- thumb: https://thumb.ibb.co/b31Mmm/pic_007.jpg
- category: book
-
-pic_008:
- path: https://image.ibb.co/gi7u6m/pic_008.jpg
- thumb: https://thumb.ibb.co/cFnu6m/pic_008.jpg
- category: book
-
-pic_009:
- path: https://image.ibb.co/ifPwK6/pic_009.jpg
- thumb: https://thumb.ibb.co/fMWbK6/pic_009.jpg
- category: book
-
-pic_010:
- path: https://image.ibb.co/kdXu6m/pic_010.jpg
- thumb: https://thumb.ibb.co/hLdZ6m/pic_010.jpg
- category: book
-
-pic_011:
- path: https://image.ibb.co/jZu7Rm/pic_011.jpg
- thumb: https://thumb.ibb.co/hj9wK6/pic_011.jpg
- category: book
-
-pic_012:
- path: https://image.ibb.co/mcAQCR/pic_012.jpg
- thumb: https://thumb.ibb.co/d2wbK6/pic_012.jpg
- category: book
-
-pic_013:
- path: https://image.ibb.co/ez6Ae6/pic_013.jpg
- thumb: https://thumb.ibb.co/jctqe6/pic_013.jpg
- category: book
-
-pic_014:
- path: https://image.ibb.co/g5sSRm/pic_014.jpg
- thumb: https://thumb.ibb.co/kSDCsR/pic_014.jpg
- category: book
-
-pic_015:
- path: https://image.ibb.co/eKAssR/pic_015.jpg
- thumb: https://thumb.ibb.co/iZodXR/pic_015.jpg
- category: book
-
-pic_016:
- path: https://image.ibb.co/iUxu6m/pic_016.jpg
- thumb: https://thumb.ibb.co/gvddXR/pic_016.jpg
- category: acting
-
-pic_017:
- path: https://image.ibb.co/ijtj6m/pic_017.jpg
- thumb: https://thumb.ibb.co/n6DTXR/pic_017.jpg
- category: acting
-
-pic_018:
- path: https://image.ibb.co/gumFCR/pic_018.jpg
- thumb: https://thumb.ibb.co/k8P2sR/pic_018.jpg
- category: acting
-
-pic_019:
- path: https://image.ibb.co/gULWmm/pic_019.jpg
- thumb: https://thumb.ibb.co/mbFLe6/pic_019.jpg
- category: acting
-
-pic_020:
- path: https://image.ibb.co/bXCGK6/pic_020.jpg
- thumb: https://thumb.ibb.co/dTxiz6/pic_020.jpg
- category: acting
-
-pic_021:
- path: https://image.ibb.co/dgMtz6/pic_021.jpg
- thumb: https://thumb.ibb.co/dLwhsR/pic_021.jpg
- category: acting
-
-pic_022:
- path: https://image.ibb.co/htjkCR/pic_022.jpg
- thumb: https://thumb.ibb.co/khUwK6/pic_022.jpg
- category: acting
-
-pic_023:
- path: https://image.ibb.co/d32oXR/pic_023.jpg
- thumb: https://thumb.ibb.co/fVd6K6/pic_023.jpg
- category: acting
-
-pic_024:
- path: https://image.ibb.co/bYqmK6/pic_024.jpg
- thumb: https://thumb.ibb.co/m4p2sR/pic_024.jpg
- category: book
-
-pic_025:
- path: https://image.ibb.co/d3B46m/pic_025.jpg
- thumb: https://thumb.ibb.co/frCYz6/pic_025.jpg
- category: book
