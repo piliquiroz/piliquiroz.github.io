@@ -55,7 +55,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
+    justify-content: centered;
     margin-bottom: 15px;
 }
 
@@ -65,6 +65,7 @@ p {
     border: none;
     color: #333;
     background: rgba(0, 0, 0, 0);
+    margin: auto;
 }
 
 #submit {
