@@ -1,5 +1,5 @@
 ---
 title: Home
 layout: default
-title-image: pic_000
+title-image: pic_007
 ---
