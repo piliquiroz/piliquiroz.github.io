@@ -23,16 +23,28 @@ layout: default
     <button class="button" data-filter=".workshop">workshops</button>
 </div>
 
+
 <!-- The list of images -->
 
 <div class="container-fluid">
   <div id="links">
     {% for img in site.data.images %}
-    <div class="thumb {{ img[1].category }}">
-      <a href="{{ img[1].path }}" title="{{ img[1].category }}" data-gallery>
-        <img src="{{ img[1].thumb }}" alt="{{ img[0] }}" border="0">
-      </a>
-    </div>
+      {% if img[1].hidden != true %}
+      <!-- Set the image title to the attribution if it exists -->
+        {% if img[1].attribution != nil %}
+           {% assign attrtag = img[1].attribution %}
+           {% assign attr = site.data.attributions[ attrtag ] %}
+           {% assign name = {{attr.name}}%}
+           {% capture title %}Photo by: {{ name }}{% endcapture %}
+        {% else %}
+          {% assign title = img[1].category %}
+        {% endif %}
+        <div class="thumb {{ img[1].category }}">
+            <a href="{{ img[1].path }}" title="{{ title }}" data-gallery>
+            <img src="{{ img[1].thumb }}" alt="{{ img[0] }}" border="0">
+            </a>
+        </div>
+      {% endif %}
     {% endfor %}
   </div>
 </div>
