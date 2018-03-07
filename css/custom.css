@@ -8,9 +8,9 @@ img {
     max-width: 100%;
 }
 
-/* .img-title { */
-/*     margin-bottom: 25px; */
-/* } */
+.img-title {
+    width: 100%;
+}
 
 .title-image-field {
     margin-bottom: 25px;
