@@ -5,4 +5,4 @@ url: "http://localhost:4000"
 
 permalink: pretty
 
-highlighter: "none"
+highlighter: "rouge"
