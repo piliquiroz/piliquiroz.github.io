@@ -1,7 +1,17 @@
 {% if page.title-image != nil %}
 <div class="row">
-  <div class="col-md-12">
-    <img class="img-title" src="{{ site.data.images[page.title-image].path }}">
+  <div class="col-md-12 title-image-field">
+    {% assign im = site.data.images[page.title-image] %}
+    <img class="img-title" src="{{ im.path }}">
+
+    {% if im.attribution != nil %}
+      {% assign attr = site.data.attributions[im.attribution] %}
+      <div class="attr-link">
+        Photo by: <a href="{{attr.website}}">{{attr.name}}</a>
+      </div>
+    {% endif %}
+
+
   </div>
 </div>
 {% endif %}

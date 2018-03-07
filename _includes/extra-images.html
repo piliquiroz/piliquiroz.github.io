@@ -6,8 +6,19 @@
     <div id="links">
       {% for name in page.extra-images %}
         {% assign img = site.data.images[name] %}
+
+        <!-- Set the image title to the attribution if it exists -->
+        {% if img.attribution != nil %}
+           {% assign attrtag = img.attribution %}
+           {% assign attr = site.data.attributions[ attrtag ] %}
+           {% assign attrname = {{attr.name}} %}
+           {% capture title %}Photo by: {{ attrname }}{% endcapture %}
+        {% else %}
+          {% assign title = img.category %}
+        {% endif %}
+
         <div class="thumb {{ img.category }}">
-          <a href="{{ img.path }}" title="{{ img.category }}" data-gallery>
+          <a href="{{ img.path }}" title="{{ title }}" data-gallery>
             <img src="{{ img.thumb }}" alt="{{ name }}" border="0">
           </a>
         </div>

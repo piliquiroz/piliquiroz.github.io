@@ -5,7 +5,12 @@ title: First time directing after the stroke. What has changed?
 categories: stroke directing
 ---
 
-It happened on a Tuesday, I was naked in my bed, my body still tingling. My husband was taking a shower and I reach for my phone I grabbed the phone and tried to open the cover but I didn't manage, I couldn't do the movement. I tried to stand up and my body fell down. Everything became like from another world. I couldn't see normally, it was blurry like the world was in another place and I was in bed naked and I didn't belong with the things that were around me.
+It happened on a Tuesday, I was naked in my bed, my body still tingling. My
+husband was taking a shower and I reach for my phone I grabbed the phone and
+tried to open the cover but I didn't manage, I couldn't do the movement. I tried
+to stand up and my body fell down. Everything became like from another world. I
+couldn't see normally, it was blurry like the world was in another place and I
+was in bed naked and I didn't belong with the things that were around me.
 
 My husband came into the room, he looked at me and said "you don't look good, what happened?"
 
