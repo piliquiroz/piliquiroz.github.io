@@ -26,8 +26,8 @@ layout: default
 
 <!-- The list of images -->
 
-<div class="container-fluid">
-  <div id="links">
+<div class="container-fluid" id="links-parent">
+  <div id="links" class="gallery">
     {% for img in site.data.images %}
       {% if img[1].hidden != true %}
       <!-- Set the image title to the attribution if it exists -->

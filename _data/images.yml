@@ -426,3 +426,58 @@ vomit_compressed:
  thumb: https://thumb.ibb.co/cHwMmm/vomit_compressed.jpg
  category: directing
  attribution: max
+
+mask_1:
+ path: https://image.ibb.co/bYJjKn/IMG_20170301_105744792.jpg
+ thumb: https://thumb.ibb.co/g3MRX7/IMG_20170301_105744792.jpg
+ category: workshop
+
+mask_2:
+ path: https://image.ibb.co/cCiOC7/IMG_20170301_094954600.jpg
+ thumb: https://thumb.ibb.co/gomMzn/IMG_20170301_094954600.jpg
+ category: workshop
+
+mask_3:
+ path: https://image.ibb.co/hg1oen/IMG_20170228_101806195.jpg
+ thumb: https://thumb.ibb.co/mKnTen/IMG_20170228_101806195.jpg
+ category: workshop
+
+mask_4:
+ path: https://image.ibb.co/mFwzkS/IMG_20170228_101611276.jpg
+ thumb: https://thumb.ibb.co/joLgzn/IMG_20170228_101611276.jpg
+ category: workshop
+
+silks_1:
+ path: https://image.ibb.co/fbAyen/IMG_20170408_183011704_COLLAGE.jpg
+ thumb: https://thumb.ibb.co/e5J6X7/IMG_20170408_183011704_COLLAGE.jpg
+ category: workshop
+
+silks_2:
+ path: https://image.ibb.co/gDKfs7/IMG_20170829_172203_0.jpg
+ thumb: https://thumb.ibb.co/cNqmX7/IMG_20170829_172203_0.jpg
+ category: workshop
+
+silks_3:
+ path: https://image.ibb.co/jPurzn/IMG_20170829_172203_2.jpg
+ thumb: https://thumb.ibb.co/hhsden/IMG_20170829_172203_2.jpg
+ category: workshop
+
+silks_4:
+ path: https://image.ibb.co/iDvaQS/IMG_20170829_172203_3.jpg
+ thumb: https://thumb.ibb.co/meWtC7/IMG_20170829_172203_3.jpg
+ category: workshop
+
+silks_5:
+ path: https://image.ibb.co/eRzrzn/IMG_20170829_172203_4.jpg
+ thumb: https://thumb.ibb.co/dmfLs7/IMG_20170829_172203_4.jpg
+ category: workshop
+
+silks_6:
+ path: https://image.ibb.co/kt8UkS/IMG_20170829_172203_6.jpg
+ thumb: https://thumb.ibb.co/fWojKn/IMG_20170829_172203_6.jpg
+ category: workshop
+
+Silks_7:
+ path: https://image.ibb.co/fMSYC7/IMG_20170829_172203_5.jpg
+ thumb: https://thumb.ibb.co/iKwh5S/IMG_20170829_172203_5.jpg
+ category: workshop
