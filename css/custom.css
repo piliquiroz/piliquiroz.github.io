@@ -104,7 +104,7 @@ p {
 
 .thumb {
     position: relative;
-    float: center;
+    float: left;
     margin: 2.5px;
 }
 
