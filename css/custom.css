@@ -23,6 +23,7 @@ img {
 
 #links {
     margin: 0 auto;
+    text-align: center;
 
 }
 
@@ -41,8 +42,8 @@ p {
 
 .entry {
     margin-top: 40px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 /* ---- buttons and groups ---- */
@@ -103,7 +104,7 @@ p {
 
 .thumb {
     position: relative;
-    float: left;
+    float: center;
     margin: 2.5px;
 }
 
