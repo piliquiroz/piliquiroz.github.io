@@ -49,7 +49,6 @@ layout: default
   </div>
 </div>
 
-<!-- <div class="thumb book"><a href="https://image.ibb.co/kgpS7R/pic_015.jpg" title="Book" data-gallery><img src="https://thumb.ibb.co/hr4G1m/pic_015.jpg" alt="pic_015" border="0"></a></div> -->
 
 <script type="text/javascript">
   var $container = $('#links').imagesLoaded( function() {;

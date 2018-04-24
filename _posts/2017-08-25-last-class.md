@@ -16,4 +16,5 @@ benefits and festivals and I taught many, many people children and adults. I
 learn a lot, I think I am a better teacher now than when I started and I have
 become a lot more confident as a performer. Thank you Eva.
 
-If you're in Tuebingen, make sure you checkout [Eva's silks school](http://www.himmelstaenzerin.de).
+If you're in Tuebingen, make sure you checkout
+ <a href="http://www.himmelstaenzerin.de/" target="_blank">Eva's silks school</a>

@@ -13,4 +13,4 @@ people who really live here. I used to spend most of my time with exchange
 students, but little by little by studding the language and really through my
 work I get to see more and more of this country.
 
-[The church website](http://www.nehren-evangelisch.de/berichte-bilder-und-geschichten/benefiz-tage-2017/)
+ <a href="http://www.nehren-evangelisch.de/berichte-bilder-und-geschichten/benefiz-tage-2017/" target="_blank">The church website</a>

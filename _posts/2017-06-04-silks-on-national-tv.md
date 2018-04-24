@@ -32,6 +32,7 @@ praying position was better for television, but the reason I liked it so much
 was the people, every one was incredibly kind and helpful from the director, to
 the organizers to the priest. I am very happy I got to be part of this.
 
-[Click here to see bits of the rehearsal](https://youtu.be/Ft0sJFd4bc4)
 
-[Click here for the entire service](http://www.ardmediathek.de/tv/Kirchliche-Sendungen/Evangelischer-Gottesdienst-zum-Pfingstso/Das-Erste/Video?bcastId=4112710&documentId=43312750)
+ <a href="https://youtu.be/Ft0sJFd4bc4/" target="_blank">Click here to see bits of the rehearsal</a>
+
+ <a href="http://www.ardmediathek.de/tv/Kirchliche-Sendungen/Evangelischer-Gottesdienst-zum-Pfingstso/Das-Erste/Video?bcastId=4112710&documentId=43312750" target="_blank">Click here for the entire service</a>

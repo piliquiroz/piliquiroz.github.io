@@ -1,0 +1,7 @@
+
+{% if im.attribution != nil %}
+  {% assign attr = site.data.attributions[im.attribution] %}
+  <div class="attr-link">
+    Photo by: <a href="{{attr.website}}" target="_blank">{{attr.name}}</a>
+  </div>
+{% endif %}
