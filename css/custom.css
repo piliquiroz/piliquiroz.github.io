@@ -46,23 +46,12 @@ p {
 }
 /* ---- Filtering navbar ---- */
 
-#nav-filters {
-    margin-bottom: 0px;
-    height: 0px;
-    padding: 0px 0px;
-}
+/* #nav-filters { */
+/*     margin-bottom: 0px; */
+/*     height: 0px; */
+/*     padding: 0px 0px; */
+/* } */
 
-/* The div containing the filters */
-#filter-bar {
-    text-align: center;
-}
-
-/* The <ul> containing the filtering buttons */
-#filter-list {
-    display: inline-block;
-    float: none;
-    vertical-align: top;
-}
 
 #filter-bar .button {
     font-size: 18px;
@@ -90,6 +79,19 @@ p {
     font-weight: bold;
 }
 
+@media (min-width: 800px) {
+/* The div containing the filters */
+#filter-bar {
+    text-align: center;
+}
+}
+
+/* The <ul> containing the filtering buttons */
+#filter-list {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
 
 /* Change the point at which the navbars collapse site-wide */
 
@@ -155,7 +157,12 @@ p {
     float: left;
     margin: 2.5px;
 }
-
+/* NOT THIS */
+/* #nav-filters { */
+/*     margin-top: 50px; */
+/*     margin-bottom: 30px; */
+/*     border-bottom:solid 2px black; */
+/* } */
 #navbar-site {
     margin-top: 50px;
     margin-bottom: 30px;
