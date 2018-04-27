@@ -1,0 +1,28 @@
+<nav id="nav-filters" class="navbar navbar-default">
+  <div class="container-fluid">
+
+    <!-- The button that provides access to collapsed filters -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" id="filter-toggle" data-toggle="collapse" data-target="#filter-bar">
+          <span class="sr-only">Toggle navigation</span>
+          <!-- This adds 3 horizontal stripes to the button for appearance reasons -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- The filtering buttons -->
+    <div id="filter-bar" class="collapse navbar-collapse ">
+      <ul id="filter-list" class="nav navbar-nav">
+        <li><button class="button is-checked" autofocus data-filter="*">all</button></li>
+        <li><button class="button" data-filter=".book">book</button></li>
+        <li><button class="button" data-filter=".acting">acting</button></li>
+        <li><button class="button" data-filter=".directing">directing</button></li>
+        <li><button class="button" data-filter=".silks">silks</button></li>
+        <li><button class="button" data-filter=".workshop">workshops</button></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>

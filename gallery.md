@@ -11,17 +11,7 @@ layout: default
 
 <!-- The Lightbox gallery -->
 {% include lightbox.html %}
-
-
-<!-- The filtering buttons -->
-<div id="filters" class="button-group">
-    <button class="button is-checked" data-filter="*">show all</button>
-    <button class="button" data-filter=".book">book</button>
-    <button class="button" data-filter=".acting">acting</button>
-    <button class="button" data-filter=".directing">directing</button>
-    <button class="button" data-filter=".silks">silks</button>
-    <button class="button" data-filter=".workshop">workshops</button>
-</div>
+{% include filter-bar.html %}
 
 
 <!-- The list of images -->
@@ -61,7 +51,7 @@ layout: default
   });
 
   // filter items on button click
-  $('#filters').on( 'click', 'button', function() {
+  $('#filter-bar').on( 'click', 'button', function() {
   var filterValue = $(this).attr('data-filter');
   $container.isotope({ filter: filterValue });
   });
