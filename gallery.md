@@ -34,7 +34,7 @@ layout: default
         {% if img[1].attribution != nil %}
            {% assign attrtag = img[1].attribution %}
            {% assign attr = site.data.attributions[ attrtag ] %}
-           {% assign name = {{attr.name}}%}
+           {% assign name = attr.name%}
            {% capture title %}Photo by: {{ name }}{% endcapture %}
         {% else %}
           {% assign title = img[1].category %}
